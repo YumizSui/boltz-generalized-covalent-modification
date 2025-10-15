@@ -1,4 +1,4 @@
-# Run Boltz-1 Model With Arbitrary Non-Canonical Amino Acids
+# Run Boltz-1/2 Model With Arbitrary Non-Canonical Amino Acids
 
 A jupyter notebook which walks you through injecting a new residue into the CCD cache and then using
 that new residue as a modification in a boltz yaml file.
